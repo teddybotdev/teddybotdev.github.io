@@ -1,0 +1,56 @@
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@300&family=Roboto&family=Train+One&display=swap');
+.header{
+    font-family: Train One;
+    text-align: center;
+    color: blue;
+}
+body{
+    background-color: lightgreen;
+}
+.maintxt{
+    font-family: Londrina Solid;
+    text-align: center;
+    color: blue;
+}   
+.navbtn{
+    padding: 10px;
+    background-color: lightblue;
+    border: none;
+    font-family: Londrina Solid;
+    font-size: large;
+    -moz-animation-delay: 0.2ms;
+    cursor: pointer;
+}
+.navbtn:hover{
+    background-color: rgba(204, 0, 255, 0.219);
+    -moz-animation-delay: 0.2ms;
+    cursor: pointer;
+}
+.bearimg{
+    width: 50%;
+    height: 50%;
+}
+.about{
+    background-color: aquamarine;
+    color: black;   
+}
+li{
+    text-align: left;
+    color: black;
+}
+.invitebtn{
+    padding: 30px;
+    background-color: lightblue;
+    border: none;
+    font-family: Londrina Solid;
+    font-size: xx-large;
+    -moz-animation-delay: 0.2ms;
+    cursor: pointer;
+    margin-left: 41%;
+}
+.invitebtn:hover{
+    background-color: rgba(204, 0, 255, 0.219);
+    -moz-animation-delay: 0.2ms;
+    cursor: pointer;
+}
